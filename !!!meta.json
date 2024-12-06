@@ -1,0 +1,482 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.62.6",
+	"files": [
+		{
+			"noteId": "MS7Slg95LDHi",
+			"notePath": [
+				"MS7Slg95LDHi"
+			],
+			"isClone": false,
+			"title": "Computer Science Research",
+			"notePosition": 20,
+			"prefix": null,
+			"isExpanded": false,
+			"type": "text",
+			"mime": "text/html",
+			"format": "html",
+			"dataFileName": "Computer Science Research.html",
+			"dirFileName": "Computer Science Research",
+			"noImport": false,
+			"attributes": [
+				{
+					"type": "label",
+					"name": "mapType",
+					"value": "link",
+					"isInheritable": false,
+					"position": 10
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "EI5fm9MoUcZb",
+					"isInheritable": false,
+					"position": 20
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "2D4xSjB4J0b8",
+					"isInheritable": false,
+					"position": 30
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "EMGx7eN5ObpP",
+					"isInheritable": false,
+					"position": 40
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "nhYUke8u1ke3",
+					"isInheritable": false,
+					"position": 50
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "V87HUoCXN3MI",
+					"isInheritable": false,
+					"position": 60
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "2z3Hc2D84oq3",
+					"isInheritable": false,
+					"position": 70
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "5PSvir0QV96v",
+					"isInheritable": false,
+					"position": 80
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "289Ep90RqJEL",
+					"isInheritable": false,
+					"position": 90
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "Om6V9shlMcpm",
+					"isInheritable": false,
+					"position": 100
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "QlYMw5aMPupR",
+					"isInheritable": false,
+					"position": 110
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "QVzDRnzApgaJ",
+					"isInheritable": false,
+					"position": 120
+				}
+			],
+			"attachments": [],
+			"children": [
+				{
+					"noteId": "2D4xSjB4J0b8",
+					"notePath": [
+						"MS7Slg95LDHi",
+						"2D4xSjB4J0b8"
+					],
+					"isClone": false,
+					"title": "COMPUTER HARDWARE",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "COMPUTER HARDWARE.html",
+					"dirFileName": "COMPUTER HARDWARE",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "EMGx7eN5ObpP",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"EMGx7eN5ObpP"
+							],
+							"isClone": false,
+							"title": "CPU",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "CPU.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [
+								{
+									"attachmentId": "Nsqym1LrZDYE",
+									"title": "CPU-working.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "CPU_CPU-working.png"
+								},
+								{
+									"attachmentId": "vdu5YrZhv38L",
+									"title": "what-is-a-multicore-processor2.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "CPU_what-is-a-multicore-proces.png"
+								},
+								{
+									"attachmentId": "EYGvYX9cawPc",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "CPU_image.jpg"
+								}
+							]
+						},
+						{
+							"noteId": "V87HUoCXN3MI",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"V87HUoCXN3MI"
+							],
+							"isClone": false,
+							"title": "MAIN MEMORY",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "MAIN MEMORY.html",
+							"noImport": false,
+							"attributes": [
+								{
+									"type": "label",
+									"name": "mapType",
+									"value": "tree",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"attachments": [
+								{
+									"attachmentId": "SgFm7cj3fruc",
+									"title": "image.png",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MAIN MEMORY_image.png"
+								},
+								{
+									"attachmentId": "LSsnOXWmdgaU",
+									"title": "Computer-Memory-Hierarchy.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MAIN MEMORY_Computer-Memory-Hi.jpg"
+								}
+							]
+						},
+						{
+							"noteId": "2z3Hc2D84oq3",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"2z3Hc2D84oq3"
+							],
+							"isClone": false,
+							"title": "SECONDARY MEMORY",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "SECONDARY MEMORY.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "5PSvir0QV96v",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"5PSvir0QV96v"
+							],
+							"isClone": false,
+							"title": "GRAPHICS CARD",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "GRAPHICS CARD.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "289Ep90RqJEL",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"289Ep90RqJEL"
+							],
+							"isClone": false,
+							"title": "INPUT/OUTPUT DEVICES",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "INPUTOUTPUT DEVICES.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "nhYUke8u1ke3",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"nhYUke8u1ke3"
+							],
+							"isClone": false,
+							"title": "MOTHERBOARD",
+							"notePosition": 80,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "MOTHERBOARD.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [
+								{
+									"attachmentId": "aPMZwFsFHVaQ",
+									"title": "CPU-Slot--1024x683.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MOTHERBOARD_CPU-Slot--1024x683.jpg"
+								},
+								{
+									"attachmentId": "xIGqgzqBGPH9",
+									"title": "RAM-Slots-1024x683.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MOTHERBOARD_RAM-Slots-1024x683.jpg"
+								},
+								{
+									"attachmentId": "Tf1U6GKCSeB7",
+									"title": "General-IO-Ports--1024x768.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MOTHERBOARD_General-IO-Ports--.jpg"
+								},
+								{
+									"attachmentId": "HdktPWRJ5fnf",
+									"title": "Power-Supply-Plug-In--1024x683.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MOTHERBOARD_Power-Supply-Plug-.jpg"
+								},
+								{
+									"attachmentId": "qjiYX54KpZlL",
+									"title": "CMOS-Battery--1024x683.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "MOTHERBOARD_CMOS-Battery--1024.jpg"
+								}
+							]
+						},
+						{
+							"noteId": "Om6V9shlMcpm",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"Om6V9shlMcpm"
+							],
+							"isClone": false,
+							"title": " POWER SUPPLY UNIT",
+							"notePosition": 90,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "POWER SUPPLY UNIT.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "QlYMw5aMPupR",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"QlYMw5aMPupR"
+							],
+							"isClone": false,
+							"title": "COOLING SYSTEMS",
+							"notePosition": 100,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "COOLING SYSTEMS.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "QVzDRnzApgaJ",
+							"notePath": [
+								"MS7Slg95LDHi",
+								"2D4xSjB4J0b8",
+								"QVzDRnzApgaJ"
+							],
+							"isClone": false,
+							"title": "EXPANSION SLOTS",
+							"notePosition": 110,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "EXPANSION SLOTS.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						}
+					]
+				},
+				{
+					"noteId": "EI5fm9MoUcZb",
+					"notePath": [
+						"MS7Slg95LDHi",
+						"EI5fm9MoUcZb"
+					],
+					"isClone": false,
+					"title": "INTRODUCTION AND ITS HISTORY",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "INTRODUCTION AND ITS HISTORY.html",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "2D4xSjB4J0b8",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"attachments": []
+				},
+				{
+					"noteId": "yyK7mmuuGxYQ",
+					"notePath": [
+						"MS7Slg95LDHi",
+						"yyK7mmuuGxYQ"
+					],
+					"isClone": false,
+					"title": "BUILDING A PC",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "BUILDING A PC.html",
+					"noImport": false,
+					"attributes": [],
+					"attachments": []
+				},
+				{
+					"noteId": "CQTarHgndSbH",
+					"notePath": [
+						"MS7Slg95LDHi",
+						"CQTarHgndSbH"
+					],
+					"isClone": false,
+					"title": "SUMMARY",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "SUMMARY.html",
+					"noImport": false,
+					"attributes": [],
+					"attachments": []
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
